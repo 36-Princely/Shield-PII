@@ -1,2 +1,1 @@
-# Shield-PII
-An AI-Powered app that scans your emails, file, and cloud storage to detect exposed personal information and alert you instantly, so you stay one step ahead of identity theft and data breaches.
+# Shield-PII is a public utility app built for the PI Network that helps users secure their personal data in the digital world. It scans your connected files, cloud storage, and communication sources to detect exposed personal information, like emails, phone numbers, and IDS; INSTANTLY Alerts you before it becomes a threat.
